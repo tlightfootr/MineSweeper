@@ -1,0 +1,2 @@
+# MineSweeper
+Basic Minesweeper game
